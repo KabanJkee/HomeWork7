@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\bin\Debug\net6.0\ex003.exe
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\bin\Debug\net6.0\ex003.deps.json
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\bin\Debug\net6.0\ex003.runtimeconfig.json
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\bin\Debug\net6.0\ex003.dll
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\bin\Debug\net6.0\ex003.pdb
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\obj\Debug\net6.0\ex003.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\obj\Debug\net6.0\ex003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\obj\Debug\net6.0\ex003.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\obj\Debug\net6.0\ex003.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\obj\Debug\net6.0\ex003.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\obj\Debug\net6.0\ex003.dll
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\obj\Debug\net6.0\refint\ex003.dll
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\obj\Debug\net6.0\ex003.pdb
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\obj\Debug\net6.0\ex003.genruntimeconfig.cache
+C:\Users\HOME\Desktop\Учеба\программирование\HomeWork\HomeWork7 C#\ex003\obj\Debug\net6.0\ref\ex003.dll
